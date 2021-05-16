@@ -1,4 +1,4 @@
-# vue developer environment
+# Vue Developer Tools & Environment
 
 Getting up to speed on the vue developer tools and developer environment.
 

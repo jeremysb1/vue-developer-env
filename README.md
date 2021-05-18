@@ -7,3 +7,5 @@ Topics include:
 1. webpack
 2. babel
 3. sass
+4. PostCSS
+5. ESLint
